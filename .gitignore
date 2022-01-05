@@ -8,6 +8,8 @@
 # Crash log files
 crash.log
 
+**/.vscode/*
+
 # Exclude all secret .tfvars files, containing sentitive data, such as
 # password, private keys, and other secrets. These should not be part of version
 # control as they are data points which are potentially sensitive and subject
